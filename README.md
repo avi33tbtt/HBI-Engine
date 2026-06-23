@@ -79,7 +79,7 @@ These align with established research literature:
 ### Original Hypotheses Requiring Validation
 This is where the framework's originality lies. These are conceptual models — not established theories — but potentially publishable if validated:
 
-- Narcissism as a function of `agreeableness × neuroticism × power`
+- Narcissism as a function of `agreeableness : neuroticism : power`
 - Stress-entropy simulator
 - Dyadic power/resource simulator
 - Sovereign empath developmental pathway (`Naive → Aware → Strategic → Sovereign`)
